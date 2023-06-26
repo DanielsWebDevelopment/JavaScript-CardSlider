@@ -1,3 +1,5 @@
+![JavaScript_CardSlider](https://github.com/DanielsWebDevelopment/JavaScript-ChatBot/assets/129445203/b37595dd-ab51-4ec7-ad94-45bbd4b141d6)
+
 # JavaScript-CardSlider
 This was done as a clone project
 
