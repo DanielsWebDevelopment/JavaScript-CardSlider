@@ -2,7 +2,7 @@
 This was done as a clone project
 
 ## This website was developed as Clone Project, 
-the goal for this project was to allow to farmiliarize myself more with javascript 
+the goal for this project was to farmiliarize myself more with javascript 
 
 ### The tools the were used in this project were HTML, CSS AND JavaScript
 
