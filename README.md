@@ -9,7 +9,7 @@ the goal for this project was to farmiliarize myself more with javascript
 ### The tools the were used in this project were HTML, CSS AND JavaScript
 
 ### Some of the features include but not limited to, 
-Implentation of the initzializing of SwiperJs
+Implentation of initzializing SwiperJs
 
 Here are some screen shots of the websites tructure, 
 
